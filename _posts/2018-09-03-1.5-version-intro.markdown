@@ -13,4 +13,4 @@ category: article
 
 ##### 测试
 
-- [x] TOTP和google的Authenticator进行对比校验过，确保一致！
+- [x] TOTP和Google的Authenticator进行对比校验过，确保一致！
