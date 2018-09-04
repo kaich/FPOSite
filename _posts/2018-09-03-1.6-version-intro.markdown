@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "1.6版功能介绍!"
+date:   2018-09-03 16:52:45 +0800
+category: article 
+---
+
+#### 1.6
+
+##### new feature
+
+* TOTP添加移除功能
+* 新增对webdav服务的支持
+* 新增对icloud drive的支持
+* 修复同步的部分bug
+* 同步界面提示调整
+
+##### 测试
+
+- [x] webDAV 同步、下载 
+- [x] icloud drive 同步、下载 
+- [x] dropbox 同步、下载 
+- [x] onedriver 同步、下载 

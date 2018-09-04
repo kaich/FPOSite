@@ -1,0 +1,15 @@
+---
+title: Reading List
+subtitle: a list of books I read
+layout: "page"
+icon: fa-book
+order: 3
+---
+
+{% for item in site.categories.video %}
+  <div {% if forloop.first %}class="first"{% endif %}>
+    Item {{ forloop.index }}: {{ item.name }}
+  </div>
+{% else %}
+  There is nothing in the collection.
+{% endfor %}
