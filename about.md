@@ -10,6 +10,6 @@ permalink: /about/
 
 QQ群： 831063212
 
-群二维码：
+QQ群二维码：
 
 <img src="/asset/images/fantasy_qq_qun.jpg" alt="QQ" width="300" />
