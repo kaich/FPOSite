@@ -10,6 +10,8 @@ category: article
 
 在 iOS 12 正式更新后，第三方密码管理软件可以接入到系统的自动填充功能中。于是在第一天我就让FantasyPass实现了这一功能，为了确保其它新功能的稳定性，所以在今天发布。
 
+<!--more-->
+
 ### 使用
 
 #### 开启自动填充
@@ -20,7 +22,7 @@ category: article
 
 激活后，用户可以通过点击密码自动填充（显示在软键盘上方的小键图标）并从所需服务中选择信息来访问支持应用程序中的二级验证码。在填写配置的文本字段（例如用户名和密码）之前，设备会通过 Face ID，Touch ID 或 PIN 码对用户进行身份验证，以确保安全。
 
-<img src="/asset/images/img201809181620240.png" alt="Javascript Plugin" width="300" />
+<img src="/asset/images/img201809181620240.jpg" alt="Javascript Plugin" width="300" />
 
 
 #### 使用
