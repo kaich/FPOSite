@@ -11,7 +11,7 @@ category: article
 
 <!--more-->
 
-![spotlight](spotlight.png)
+![spotlight](/asset/images/spotlight.png)
 
 ---
 
