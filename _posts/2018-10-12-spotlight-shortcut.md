@@ -11,7 +11,7 @@ category: article
 
 <!--more-->
 
-![spotlight](/asset/images/spotlight.png)
+<img src="/asset/images/spotlight.png" alt="Spotlight Shortcut" width="300"/>
 
 ---
 
