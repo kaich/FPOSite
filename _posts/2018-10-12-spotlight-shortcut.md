@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "拥抱iOS 12的系统自动填充"
+title:  "利用Spotlight搜索和捷径提升效率"
 date:   2018-09-20 16:52:45 +0800
 category: article 
 ---
