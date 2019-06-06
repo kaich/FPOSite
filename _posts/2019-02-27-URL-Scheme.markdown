@@ -25,3 +25,5 @@
 打开keepass.kdbx数据库，并且打开用户名为xiaoming的github登录项。
 		
 		fpuser://keepass/kdbx/entry?title=github&username=xiaoming
+		
+> 如果有多个title和username都是可选参数，如果有多个匹配结果，会优先进入第一个匹配到的登录项。
