@@ -204,7 +204,7 @@ h6 {
 }
 
 .menu-toggle:hover {
-  background: #343a40;
+  background: hsl(210, 10%, 23%);
 }
 
 .service-icon {
