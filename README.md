@@ -144,6 +144,11 @@ https://itunes.apple.com/cn/app/fantasypass/id1357961740?mt=8
 * 添加了Google Drive支持
 * 修复一些问题和添加一些细节处理。具体参见苹果商店更新描述。
 
+#### 6.2
+
+* 完成了远程填充第二版协议
+
+> 19年11月开始到年底，将会主要优化FantasyPass的稳定性和易用性，以及优化官网和添加教程，，有空的请大家帮忙维护。谢谢大家！
 
 ### TODO
 
@@ -154,7 +159,7 @@ https://itunes.apple.com/cn/app/fantasypass/id1357961740?mt=8
 - [x] 从其他App中（例如QQ、微信等）文件中选取文件作为附件
 - [ ] 对FantasyPass键盘进行调整，让它更方便使用
 - [ ] 提供网站网页视频等使用帮助
-- [ ] 提供JS实现扩展功能，具体参见[JS扩展](./jsdoc.md)。
+- [x] 提供JS实现扩展功能，具体参见[JS扩展](./jsdoc.md)。
 
 ### 反馈
 
